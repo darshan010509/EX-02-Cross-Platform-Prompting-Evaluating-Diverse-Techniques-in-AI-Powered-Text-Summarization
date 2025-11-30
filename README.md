@@ -1,7 +1,9 @@
-AIM
+# AIM:
+
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-PROMPTS
+# PROMPTS:
+
 Prompt Type 1: Zero-Shot Prompt
 Prompt:
 "Summarize the article on 'The Basics of Blockchain Technology' in simple terms."
@@ -50,7 +52,8 @@ Tool B: Gemini (Google)
 
 Output: Gemini took a formal educator approach, explaining blockchain’s cryptographic basis and network consensus, using terms suitable for an introductory lecture.
 
-Result
+# Result
+
 The evaluation of different prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across AI platforms ChatGPT and Gemini showed varied strengths. ChatGPT excelled in simplicity, clarity, and emotional engagement, making it ideal for beginner-friendly and educational summaries. Gemini offered more formal, abstract, and detailed outputs, suitable for advanced users and deeper insights. Selecting the best prompting approach depends on the user’s needs for accuracy, coherence, simplicity, and context.
 
 
