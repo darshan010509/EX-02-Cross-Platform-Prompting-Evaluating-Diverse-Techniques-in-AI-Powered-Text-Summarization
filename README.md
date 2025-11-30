@@ -4,7 +4,7 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 
 # PROMPTS:
 
-Prompt Type 1: Zero-Shot Prompt
+# Prompt Type 1: Zero-Shot Prompt
 Prompt:
 "Summarize the article on 'The Basics of Blockchain Technology' in simple terms."
 
@@ -16,7 +16,7 @@ Tool B: Gemini (Google)
 
 Output: Gemini described blockchain as a decentralized network that stores data transparently across many computers, emphasizing its use in secure transactions.
 
-Prompt Type 2: Few-Shot Prompt
+# Prompt Type 2: Few-Shot Prompt
 Prompt:
 "Using the tech summaries as examples, briefly explain 'The Basics of Blockchain Technology.'"
 
@@ -28,7 +28,7 @@ Tool B: Gemini (Google)
 
 Output: Gemini described blockchain as a public, decentralized ledger that records transactions securely and is widely used in cryptocurrencies like Bitcoin.
 
-Prompt Type 3: Chain-of-Thought Prompt
+# Prompt Type 3: Chain-of-Thought Prompt
 Prompt:
 "What is blockchain? How does it work? Where is it used? Summarize clearly."
 
@@ -40,7 +40,7 @@ Tool B: Gemini (Google)
 
 Output: Gemini broke down blockchain into components, describing its decentralized ledger, security features, and real-world uses like supply chain and finance.
 
-Prompt Type 4: Role-Based Prompt
+# Prompt Type 4: Role-Based Prompt
 Prompt:
 "Explain 'The Basics of Blockchain Technology' as if you are a professor teaching first-year students."
 
